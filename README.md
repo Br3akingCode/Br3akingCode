@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Angie =============================================================================================================================  Computer Science Student 👩🏽‍💻| Cybersecurity Enthusiast💻| -------------------------------------------------------------  * 🌍  I'm based in New York * ✉️  You can contact me at [angiediaz6022@gmail.com](mailto:angiediaz6022@gmail.com) * 🧠  I'm learning C++ and data structures
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Angie  Computer Science Student 👩🏽‍💻| Cybersecurity Enthusiast💻| -------------------------------------------------------------  * 🌍  I'm based in New York * ✉️  You can contact me at [angiediaz6022@gmail.com](mailto:angiediaz6022@gmail.com) * 🧠  I'm learning C++ and data structures
 
 ### Skills  
 
